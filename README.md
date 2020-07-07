@@ -1,0 +1,1 @@
+#pour l'installer, telecharger le projet en version zip, ou si vous avez git installer sur votre machine, faire git clone https://github.com/kratos-boss/upload-file-formidable.git. En suite vous vous rendez dans le projet décompresser puis entrez npm install (sa va vous installer tous les dépendance nécéssaire pour le fonctionnement de l'application)
